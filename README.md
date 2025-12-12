@@ -24,8 +24,8 @@ My name is Valerie Rosario, and I'm thrilled to share a glimpse into my technica
 
 ## Network Projects
 ### [Small Office Network with VLANs] (https://github.com/ValerieRH/ValerieRH/blob/main/Small-Office-Vlans/small-office-vlans)
-**Tech:** Cisco Packet Tracer, VLANs 802.1Q tagging, Broadcast domains, Access and Trunking ports
+**Tech:** Cisco Packet Tracer, 802.1Q encapsulation, Broadcast domains, default gateways, VLAN tagging, and Access and Trunking ports.
 * **Objective:** Designed a small office network to securely segment Sales and HR departments.
-* **Key Win:** Successfully implemented a trunk link and layer 3 switching to allow shared resources witouth compromising department security. 
+* **Key Win:** Successfully implemented a VLAN-based network segmentation accross multiple switches. I extended the topology to a router-on-a-stick design, creating sub-interfaces to enable controlled communication between VLANs.
 
  
