@@ -10,9 +10,9 @@ My name is Valerie Rosario, and I'm thrilled to share a glimpse into my technica
 # Tech Stack:
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ValerieRH&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ValerieRH&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ValerieRH&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerieRH&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerieRH&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ValerieRH&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -25,5 +25,7 @@ My name is Valerie Rosario, and I'm thrilled to share a glimpse into my technica
 ## Network Projects
 ### [Small Office Network with VLANs] (https://github.com/ValerieRH/ValerieRH/blob/main/Small-Office-Vlans/small-office-vlans)
 **Tech:** Cisco Packet Tracer, VLANs 802.1Q tagging, Broadcast domains, Access and Trunking ports
-* Designed a secure network for two departments.
-* Configured Inter-Vlan routing so Sales and HR have separate logical networks for security while sharing the same physical switches. 
+* **Objective:** Designed a small office network to securely segment Sales and HR departments.
+* **Key Win:** Successfully implemented a trunk link and layer 3 switching to allow shared resources witouth compromising department security. 
+
+ 
