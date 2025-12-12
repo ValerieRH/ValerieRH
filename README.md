@@ -14,9 +14,6 @@ My name is Valerie Rosario, and I'm thrilled to share a glimpse into my technica
 ![](https://nirzak-streak-stats.vercel.app/?user=ValerieRH&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerieRH&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ValerieRH&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ValerieRH&icon=0&color=1)](https://visitcount.itsvg.in)
 
